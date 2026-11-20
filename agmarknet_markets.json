@@ -1,0 +1,182 @@
+{
+  "West Bengal": {
+    "Burdwan (Purba)": ["Burdwan Main APMC", "Kalna Mandi", "Katwa Krishi Bazar", "Memari Regulated Market"],
+    "Burdwan (Paschim)": ["Asansol Subzi Mandi", "Durgapur Benachity Market"],
+    "Hooghly": ["Sheoraphuli Wholesale Market", "Tarakeswar Potato Mandi", "Arambagh Vegetable Market", "Pandua Regulated Yard", "Chinsurah Town Market"],
+    "Nadia": ["Ranaghat Regulated Market", "Krishnanagar Sadar Mandi", "Karimpur APMC", "Bethuadahari Market", "Chakdaha Krishi Market"],
+    "North 24 Parganas": ["Barasat Subzi Mandi", "Habra Regulated Market Yard", "Basirhat APMC", "Bongaon Border Mandi", "Barrackpore Municipal Market"],
+    "South 24 Parganas": ["Diamond Harbour Market", "Baruipur Wholesale Market", "Canning Krishi Bazar", "Kakdwip Mandi"],
+    "Bankura": ["Bankura Sadar Market Yard", "Bishnupur APMC", "Kotulpur Regulated Market", "Khatra Krishi Mandi"],
+    "Birbhum": ["Suri Regulated Market", "Bolpur Shantiniketan Mandi", "Rampurhat Grain Yard", "Sainthia APMC"],
+    "Murshidabad": ["Baharampur APMC Yard", "Jangipur Mandi", "Jiaganj Grain Market", "Kandi Sub-Division Yard", "Lalbagh Market"],
+    "Midnapore (Purba)": ["Tamluk Regulated Market", "Contai (Kanthi) APMC", "Haldia Wholesale Market", "Panskura Vegetable Yard", "Egra Market"],
+    "Midnapore (Paschim)": ["Midnapore Sadar Yard", "Kharagpur Golbazar Wholesale", "Ghatal Sub-Division Mandi", "Jhargram Krishi Yard"],
+    "Malda": ["English Bazar (Malda Town APMC)", "Samsi Mango & Grain Yard", "Chanchal Market Yard"],
+    "Dinajpur (Uttar)": ["Raiganj Regulated Market", "Islampur Subzi Mandi", "Kaliyaganj Paddy Yard"],
+    "Dinajpur (Dakshin)": ["Balurghat Sadar Mandi", "Gangarampur Krishi Bazar"],
+    "Jalpaiguri": ["Jalpaiguri Sadar Market Yard", "Dhupguri Wholesale Market", "Malbazar Tea & Agri Mandi"],
+    "Cooch Behar": ["Cooch Behar Sadar Mandi", "Dinhata Tobacco & Grain Yard", "Mathabhanga Market", "Tufanganj Krishi Bazar"],
+    "Kolkata": ["Koley Market (Sealdah)", "Mechua Fruit Wholesale Complex", "Posta Mandi (Burrabazar)", "Sealdah Baithakkhana Market"]
+  },
+  "Punjab": {
+    "Ludhiana": ["Ludhiana (New Subzi Mandi)", "Khanna (Asia's Largest Grain Mandi)", "Jagraon Yard", "Samrala APMC", "Mullanpur Market"],
+    "Amritsar": ["Amritsar Main (Bhagtanwala Yard)", "Rayya Mandi", "Gehri Grain Market", "Mehta APMC", "Attari Border Market"],
+    "Jalandhar": ["Jalandhar City (Maqsudan Mandi)", "Nakodar APMC", "Shahkot Market Yard", "Goraya Mandi"],
+    "Patiala": ["Patiala Sadar Grain Yard", "Nabha Mandi", "Rajpura APMC", "Samana Grain Market"],
+    "Bathinda": ["Bathinda Main Yard", "Rampura Phul Mandi", "Talwandi Sabo Market", "Goniana APMC"],
+    "Firozpur": ["Firozpur City Mandi", "Firozpur Cantt Yard", "Zira Grain Market", "Guru Har Sahai APMC"],
+    "Gurdaspur": ["Gurdaspur Sadar Yard", "Batala Regulated Market", "Dera Baba Nanak Mandi"],
+    "Sangrur": ["Sangrur Mandi", "Sunam APMC", "Malerkotla Subzi Mandi", "Dhuri Grain Yard"],
+    "Kapurthala": ["Kapurthala City Mandi", "Phagwara Grain Market", "Sultanpur Lodhi APMC"],
+    "Hoshiarpur": ["Hoshiarpur City Mandi", "Dasuya Yard", "Mukerian Mandi", "Garhshankar APMC"]
+  },
+  "Haryana": {
+    "Karnal": ["Karnal Grain Market Yard", "Taraori Basmati Mandi", "Gharaunda Subzi Yard", "Indri APMC", "Assandh Mandi"],
+    "Kurukshetra": ["Thanesar (Pipli Grain Market)", "Shahbad Markanda Mandi", "Ladwa Market Yard", "Pehowa APMC"],
+    "Ambala": ["Ambala City Grain Market", "Ambala Cantt Mandi", "Barara Market Yard", "Naraingarh APMC"],
+    "Hisar": ["Hisar Main Mandi Yard", "Hansi Grain Market", "Barwala APMC", "Uklana Mandi"],
+    "Sirsa": ["Sirsa Grain Market", "Ellenabad Cotton & Grain Mandi", "Mandi Dabwali Yard", "Kalanwali APMC"],
+    "Panipat": ["Panipat Main Subzi Mandi", "Samalkha Grain Yard", "Madlauda APMC"],
+    "Sonipat": ["Sonipat Main Mandi", "Ganaur International Horticulture Market", "Gohana APMC", "Kharkhoda Yard"],
+    "Rohtak": ["Rohtak Grain Market Yard", "Meham Mandi", "Sampla Market Yard"],
+    "Fatehabad": ["Fatehabad Grain Mandi", "Tohana Market Yard", "Ratia APMC", "Bhattu Kalan Mandi"],
+    "Gurugram": ["Gurugram Khandsa Mandi", "Sohna Grain Yard", "Pataudi APMC", "Farrukhnagar Mandi"]
+  },
+  "Uttar Pradesh": {
+    "Kanpur": ["Kanpur (Naubasta Mandi)", "Chakeri Wholesale Yard", "Chaubeypur APMC", "Baripal Market"],
+    "Lucknow": ["Dubagga Wholesale Fruit & Veg Mandi", "Sitapur Road Naveen Mandi", "Alambagh Sabzi Mandi", "Mohanlalganj APMC"],
+    "Varanasi": ["Chandpur Naveen Mandi", "Raja Ka Talab Wholesale Yard", "Ramnagar Mandi"],
+    "Agra": ["Agra Sadar Naveen Mandi", "Achhnera Potato Mandi", "Fatehabad Grain Yard", "Shamsabad APMC"],
+    "Mathura": ["Mathura Mandi Yard", "Kosi Kalan Grain Mandi", "Vrindavan Market Yard"],
+    "Aligarh": ["Aligarh (Dhanipur Naveen Mandi)", "Khair Grain Yard", "Atrauli APMC", "Iglas Mandi"],
+    "Gorakhpur": ["Mahewa Naveen Mandi Sthal", "Sahjanwa Market Yard", "Campierganj APMC"],
+    "Bareilly": ["Bareilly Delapeer Mandi", "Baheri Grain Yard", "Aonla APMC", "Nawabganj Mandi"],
+    "Meerut": ["Meerut (Delhi Road Naveen Mandi)", "Mawana Sugarcane & Grain Yard", "Sardhana Mandi"],
+    "Prayagraj (Allahabad)": ["Mundera Naveen Mandi", "Jasra Market Yard", "Sirathu Mandi"]
+  },
+  "Bihar": {
+    "Patna": ["Bazar Samiti Wholesale Yard (Musalapur)", "Mokama Pulses & Grain Mandi", "Barh Market Yard", "Danapur Cantt Mandi"],
+    "Muzaffarpur": ["Muzaffarpur Bazar Samiti (Brahmpura)", "Kanti Agri Yard", "Motipur Mandi"],
+    "Bhagalpur": ["Bhagalpur (Barari Bazar Samiti)", "Kahalgaon Agri Yard", "Naugachia Corn & Grain Mandi"],
+    "Gaya": ["Gaya Chandauti Bazar Samiti", "Bodh Gaya Local Yard", "Sherghati Mandi", "Tekari APMC"],
+    "Purnia": ["Purnia Gulabbagh Mandi (Eastern India's Largest Maize Market)", "Banmankhi Yard", "Kasba Mandi"],
+    "Rohtas": ["Sasaram Bazar Samiti", "Dehri on Sone Market", "Nokha Rice Mandi", "Bikramganj Paddy Yard"],
+    "Katihar": ["Katihar Bazar Samiti", "Barsoi Junction Mandi", "Manihari Market"],
+    "Samastipur": ["Samastipur Sadar Market Yard", "Rosera Mandi", "Dalsinghsarai Tobacco & Agri Yard"],
+    "Darbhanga": ["Darbhanga Bazar Samiti", "Benipur Sub-Division Yard", "Baheri Mandi"]
+  },
+  "Odisha": {
+    "Cuttack": ["Cuttack (Chhatrabazar Wholesale)", "Banki Regulated Market", "Athagarh Mandi", "Salepur APMC"],
+    "Khurda": ["Bhubaneswar (Aiginia Wholesale Vegetable Market)", "Khurda Town Mandi", "Jatni Grain Market", "Banapur APMC"],
+    "Ganjam": ["Berhampur (Bada Bazar Wholesale Yard)", "Aska Sugar & Grain Mandi", "Bhanjanagar APMC", "Hinjilicut Market"],
+    "Sambalpur": ["Sambalpur (Khetrajpur Regulated Market)", "Kuchinda Chilli & Agri Yard", "Rairakhol APMC"],
+    "Balasore": ["Balasore Sadar Market", "Jaleswar Border Mandi", "Soro Grain Yard", "Nilagiri APMC"],
+    "Bhadrak": ["Bhadrak Main Regulated Market", "Chandbali Marine & Agri Yard", "Dhamnagar Mandi"],
+    "Puri": ["Puri Sadar Market Yard", "Nimapara APMC", "Pipili Market"]
+  },
+  "Andhra Pradesh": {
+    "Guntur": ["Guntur Mirchi Yard (Asia's Largest Chilli Yard)", "Tenali Agricultural Market", "Narasaraopet Mandi", "Mangalagiri Yard"],
+    "Krishna": ["Vijayawada (Gollapudi Wholesale Market Yard)", "Machilipatnam APMC", "Gudivada Grain Yard", "Nuzvid Mango Market"],
+    "East Godavari": ["Rajahmundry Regulated Market", "Kakinada Port Mandi", "Amalapuram Coconut Yard", "Ravulapadu Banana Yard"],
+    "West Godavari": ["Tadepalligudem Onion & Agri Yard", "Eluru Main Market", "Bhimavaram Aqua & Paddy Mandi", "Tanuku APMC"],
+    "Kurnool": ["Kurnool Main Yard", "Adoni Cotton & Groundnut Mandi", "Nandyal Market Yard", "Yemmiganur APMC"],
+    "Nellore": ["Nellore Stonehousepet Market Yard", "Gudur Lemon & Agri Mandi", "Kavali Yard", "Naidupet APMC"]
+  },
+  "Maharashtra": {
+    "Pune": ["Pune APMC (Gultekdi Market Yard)", "Baramati Agricultural Yard", "Manchar Tomato & Veg Mandi", "Junnar Potato Yard"],
+    "Nashik": ["Lasalgaon APMC (Asia's Largest Onion Market)", "Pimpalgaon Baswant Tomato & Onion Yard", "Nashik City Dindori Road Yard", "Yeola Mandi"],
+    "Nagpur": ["Nagpur APMC (Kalamna Wholesale Market)", "Katol Orange Market", "Saoner Cotton & Grain Mandi", "Umred APMC"],
+    "Ahmednagar": ["Rahuri Agricultural Market", "Sangamner Tomato Yard", "Kopargaon APMC", "Shrirampur Grain Mandi"],
+    "Solapur": ["Solapur Market Yard (Pomegranate & Chana)", "Barshi Pulse & Oilseed Mandi", "Pandharpur APMC"],
+    "Kolhapur": ["Kolhapur (Shahupuri Jaggery & Grain Yard)", "Gadhinglaj APMC", "Jaysingpur Tobacco & Agri Market"],
+    "Aurangabad": ["Aurangabad (Jadhavwadi APMC Yard)", "Paithan Agri Mandi", "Vaijapur Market Yard"]
+  },
+  "Gujarat": {
+    "Ahmedabad": ["Ahmedabad (Jamalpur APMC)", "Sanand Grain Market", "Viramgam Cotton Yard", "Dholka Wheat Mandi"],
+    "Surat": ["Surat (Sardar Patel APMC Market)", "Bardoli Sugar & Vegetable Yard", "Vyara Agri Mandi", "Mahuva APMC"],
+    "Rajkot": ["Rajkot (Bedi Marketing Yard)", "Gondal Marketing Yard (Famous Chilli & Groundnut)", "Jetpur APMC", "Dhoraji Mandi"],
+    "Junagadh": ["Junagadh Agriculture Market Yard", "Visavadar Groundnut Mandi", "Keshod APMC", "Mangrol Yard"],
+    "Mehsana": ["Unjha APMC (World's Largest Cumin & Spice Market)", "Mehsana APMC Yard", "Kadi Cotton & Grain Mandi", "Visnagar Market"],
+    "Vadodara": ["Vadodara (Khanderao Market Complex)", "Sayajipura APMC Yard", "Padra Vegetable Mandi", "Karjan Cotton Yard"]
+  },
+  "Madhya Pradesh": {
+    "Indore": ["Indore (Choithram APMC Mandi)", "Laxmibai Nagar Mandi", "Sanwer Agri Yard", "Mhow Market"],
+    "Bhopal": ["Bhopal (Karond Krishi Upaj Mandi)", "Berasia Grain Mandi"],
+    "Ujjain": ["Ujjain (Chimanganj Krishi Upaj Mandi)", "Nagda Mandi", "Badnagar Wheat Yard", "Mahidpur APMC"],
+    "Jabalpur": ["Jabalpur (Damoh Naka Mandi)", "Sihora Krishi Mandi", "Patan Pulse & Grain Yard"],
+    "Gwalior": ["Gwalior (Lashkar Mandi)", "Dabra Krishi Upaj Mandi (Paddy Yard)", "Morar Subzi Mandi"],
+    "Sehore": ["Sehore Sharbati Wheat Mandi", "Ashta Krishi Upaj Mandi", "Shyampur Market Yard"]
+  },
+  "Rajasthan": {
+    "Jaipur": ["Jaipur (Muhana Terminal Market Yard)", "Surajpole Grain Mandi", "Chomu Vegetable Mandi", "Kishangarh Renwal APMC"],
+    "Jodhpur": ["Jodhpur (Bhadwasia Krishi Mandi)", "Basni Grain Mandi", "Piparcity APMC", "Bilara Market Yard"],
+    "Kota": ["Kota (Bhamashah Krishi Upaj Mandi - Soybean/Mustard)", "Ramganj Mandi (Coriander Capital)", "Itawa Grain Mandi"],
+    "Bikaner": ["Bikaner Grain & Pulse Mandi", "Nokha Moth Dal Mandi", "Loonkaransar Groundnut Yard"],
+    "Alwar": ["Alwar Naveen Krishi Mandi (Mustard Capital)", "Kherli Mandi", "Khairthal Grain Market"],
+    "Sri Ganganagar": ["Sri Ganganagar Main Yard (Wheat & Cotton)", "Suratgarh Mandi", "Padampur Krishi Mandi"]
+  },
+  "Tamil Nadu": {
+    "Chennai": ["Koyambedu Wholesale Market Complex (KWMC)"],
+    "Coimbatore": ["Coimbatore (Thyagi Kumaran Market)", "Pollachi Coconut & Veg Mandi", "Mettupalayam Potato Wholesale Yard"],
+    "Madurai": ["Madurai (Paravai Wholesale Market)", "Mattuthavani Central Market", "Melur APMC Yard"],
+    "Thanjavur": ["Thanjavur Paddy Regulated Market", "Kumbakonam Market Yard", "Pattukkottai Coconut Mandi"],
+    "Tiruchirappalli": ["Trichy (Gandhi Wholesale Market)", "Manachanallur Rice Mill Mandi", "Thuraiyur Regulated Yard"]
+  },
+  "Karnataka": {
+    "Bangalore Urban": ["Yeshwanthpur APMC Yard", "K.R. Market (City Market)", "Binny Mill Wholesale Market", "Singena Agrahara Fruit Mandi"],
+    "Belgaum": ["Belgaum APMC Main Yard", "Bailhongal Cotton & Grain Yard", "Gokak Mandi", "Chikkodi Market Yard"],
+    "Mysore": ["Mysore (Bandipalya APMC Yard)", "Nanjangud Banana & Agri Mandi", "T. Narasipura Regulated Market"],
+    "Hubli-Dharwad": ["Amargol APMC (Hubli Cotton & Chilli Yard)", "Dharwad APMC Mandi"],
+    "Shimoga": ["Shimoga APMC Yard (Arecanut & Paddy)", "Bhadravati Regulated Market", "Sagar Spices Yard"]
+  },
+  "Kerala": {
+    "Ernakulam": ["Ernakulam (Broadway Wholesale Market)", "Aluva Spices & Agri Market", "Kaloor Vegetable Market"],
+    "Thiruvananthapuram": ["Chalakkal Wholesale Market", "Palayam Connemara Market", "Nedumangad APMC Hill Produce Yard"],
+    "Kozhikode": ["Palayam Wholesale Market Yard", "Vengeri Nirapara Agro Market", "Koyilandy Mandi"],
+    "Thrissur": ["Sakthan Thampuran Wholesale Market", "Chalakudy Market Yard", "Kunnamkulam Market"]
+  },
+  "Telangana": {
+    "Hyderabad": ["Bowenpally Agricultural Market Yard", "Gudimalkapur Wholesale Vegetable Yard", "Malakpet Onion & Chilli Mandi", "L.B. Nagar Market Yard"],
+    "Warangal": ["Warangal (Enumamula Agricultural Market Yard - Cotton & Grain)", "Narsampet Market", "Jangaon APMC"],
+    "Khammam": ["Khammam Cotton & Mirchi Market Yard", "Madhira Mandi", "Sathupalli Horticulture Yard"],
+    "Nizamabad": ["Nizamabad Regulated Market (Turmeric Capital)", "Bodhan Paddy Yard", "Armoor Market Yard"]
+  },
+  "Assam": {
+    "Kamrup (Metropolitan)": ["Guwahati (Pamohi Wholesale Fruit & Vegetable Market)", "Machkhowa Wholesale Market", "Beltola Bi-Weekly Agri Market"],
+    "Nagaon": ["Nagaon Regulated Market Yard", "Dhing Jute & Vegetable Mandi", "Kampur Paddy Market"],
+    "Sonitpur": ["Tezpur Regulated Market", "Dhekiajuli Market Yard", "Biswanath Chariali Mandi"]
+  },
+  "Jharkhand": {
+    "Ranchi": ["Pandra Krishi Bazar Samiti Yard", "Daily Market (Main Road Ranchi)", "Bundu Lac & Tamarind Mandi"],
+    "Dhanbad": ["Dhanbad Bazar Samiti (Barwadda)", "Katras Bazar", "Jharia Mandi"],
+    "East Singhbhum": ["Jamshedpur (Parsudih Krishi Bazar Samiti)", "Sakchi Wholesale Market"]
+  },
+  "Chhattisgarh": {
+    "Raipur": ["Raipur (Dumartarai Krishi Upaj Mandi)", "Dharsiwa Market Yard", "Tilda Paddy Mandi"],
+    "Durg": ["Durg Krishi Upaj Mandi", "Bhilai Sector 6 Wholesale Yard", "Patan Market Yard"],
+    "Bilaspur": ["Bilaspur (Tifra Krishi Upaj Mandi)", "Kota Agri Yard", "Masturi Mandi"]
+  },
+  "Uttarakhand": {
+    "Dehradun": ["Dehradun (Niranjanpur Mandi Sthal)", "Rishikesh Vegetable Yard", "Vikas Nagar Basmati Mandi"],
+    "Haridwar": ["Haridwar (Jwalapur Mandi)", "Roorkee Grain Market", "Laksar Sugarcane & Paddy Yard"],
+    "Nainital": ["Haldwani (Gaushala Mandi - Kumaon Gateway)", "Ramnagar Fruit & Veg Mandi", "Kashipur Mandi"]
+  },
+  "Himachal Pradesh": {
+    "Shimla": ["Shimla (Dhalli Apple & Veg Terminal Market)", "Theog Apple Yard", "Rohru Apple Mandi", "Rampur Bushahr Yard"],
+    "Kullu": ["Kullu (Bajaura Sub-Market Yard)", "Bhuntar Vegetable & Fruit Mandi", "Manali Local Yard"],
+    "Solan": ["Solan APMC Terminal Market (Mushroom & Tomato Yard)", "Parwanoo Terminal Apple Mandi"]
+  },
+  "Jammu and Kashmir": {
+    "Srinagar": ["Parimpora Fruit & Vegetable Complex (Asia's Largest Apple Trade)", "Batamaloo Central Market"],
+    "Jammu": ["Narwal Fruit & Vegetable Complex", "Jammu Subzi Mandi (Old City)"]
+  },
+  "Delhi": {
+    "Delhi (NCT)": [
+      "Azadpur Mandi (Asia's Largest Wholesale Fruit & Vegetable Market)",
+      "Ghazipur Fruit, Vegetable & Flower Mandi",
+      "Okhla Wholesale Sabzi Mandi",
+      "Narela Food Grain Mandi",
+      "Keshopur Wholesale Fruit & Veg Mandi"
+    ]
+  }
+}

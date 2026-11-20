@@ -1,0 +1,58 @@
+{
+  "Tomato___Early_blight": {
+    "crop": "Tomato",
+    "disease": "Early Blight",
+    "symptoms": "Dark brown spots with concentric rings (target board pattern) on lower leaves, leading to yellowing and defoliation.",
+    "medicines": [
+      "Spray Mancozeb 75% WP (e.g., Dithane M-45) at 2.0 - 2.5 g per liter of water.",
+      "For severe infections, apply Azoxystrobin + Difenoconazole (e.g., Amistar Top) at 1.0 ml/L every 7-10 days."
+    ],
+    "organic_care": "Prune infected bottom leaves, burn crop residues, and apply mulch to avoid soil-to-leaf fungal splashing."
+  },
+  "Tomato___Late_blight": {
+    "crop": "Tomato",
+    "disease": "Late Blight",
+    "symptoms": "Irregular dark water-soaked lesions on leaves and stems. White fungal mildew appears on leaf undersides in high humidity.",
+    "medicines": [
+      "Apply Metalaxyl + Mancozeb (e.g., Ridomil Gold) at 2.0 g per liter of water.",
+      "Spray Cymoxanil + Mancozeb (Curzate M8) at 2.5 g/L during active spreading."
+    ],
+    "organic_care": "Ensure effective field drainage, provide adequate plant spacing, and destroy severely blighted plants immediately."
+  },
+  "Potato___Early_blight": {
+    "crop": "Potato",
+    "disease": "Early Blight",
+    "symptoms": "Brown to black concentric necrotic spots primarily appearing on older lower foliage.",
+    "medicines": [
+      "Apply Chlorothalonil 75% WP at 2 g/L or Mancozeb 75% WP at 2.5 g/L."
+    ],
+    "organic_care": "Practice 3-year crop rotation and sanitize equipment after harvesting."
+  },
+  "Potato___Late_blight": {
+    "crop": "Potato",
+    "disease": "Late Blight",
+    "symptoms": "Rapidly expanding water-soaked dark lesions from leaf tips with white fungal growth in wet weather.",
+    "medicines": [
+      "Preventive: Mancozeb 75% WP (2.5 g/L). Curative: Dimethomorph + Mancozeb (Acrobat MZ) at 2.5 g/L."
+    ],
+    "organic_care": "Use certified disease-free seed tubers and hill up soil properly around growing tubers."
+  },
+  "Tomato___healthy": {
+    "crop": "Tomato",
+    "disease": "Healthy Crop",
+    "symptoms": "No visible signs of bacterial, viral, or fungal infection. Foliage is vibrant green and vigorous.",
+    "medicines": [
+      "No chemical fungicides or bactericides required."
+    ],
+    "organic_care": "Maintain regular balanced fertilization (NPK) and systematic irrigation scheduling."
+  },
+  "Potato___healthy": {
+    "crop": "Potato",
+    "disease": "Healthy Crop",
+    "symptoms": "Vigorous healthy foliage without pathological lesions.",
+    "medicines": [
+      "No chemical application required."
+    ],
+    "organic_care": "Ensure routine monitoring and prevent weed infestation."
+  }
+}
