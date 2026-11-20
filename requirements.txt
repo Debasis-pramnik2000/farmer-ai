@@ -1,7 +1,7 @@
 fastapi
 uvicorn
 python-multipart
-python-multipart
+python-dotenv
 transformers
 torch
 torchvision
